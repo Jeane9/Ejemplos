@@ -1,0 +1,20 @@
+<div class="row">
+	<div class="col-sm-3">
+		<h6>Contáctanos</h6>
+		<a href="https://api.whatsapp.com/send?phone=51970200510&text=Hola,%20%C2%BFme%20podr%C3%ADa%20brindar%20informaci%C3%B3n%20de%20sus%20productos?%F0%9F%98%8A">
+			<i class="fab fa-whatsapp fa-4x" title="pokorastore"></i>
+			970200510
+		</a>
+	</div>
+	<div class="col-sm-3">
+		<h6>Síguenos: @pokorastore</h6>
+		<div class="row">				
+				<a href="https://www.facebook.com/pokorastore/" title="pokorastore">
+					<i class="fab fa-facebook fa-4x"></i>
+				</a>
+				<a href="https://instagram.com/pokorastore?igshid=1dgu7jn978ynw" title="pokorastore"> 
+					<i class="fab fa-instagram fa-4x"></i>
+				</a>
+		</div>
+	</div>
+</div>

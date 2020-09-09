@@ -1,0 +1,34 @@
+/* FONTS ON ADMIN PAGES */
+.wp-admin h1{
+  font-weight: bold;
+}
+.wp-admin h2.hookywoo{
+  font-size: 1.3em;
+  color: green;
+  font-style: italic;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 0.5em 0;
+  font-family: Merriweather, Georgia, serif;
+  padding: 0;
+}
+.wp-admin h3.hookywoo{
+  margin: 0.5em 0;
+}
+
+/* FIX HOOK STYLING ISSUES */
+.hw-after-cart, .hw-before-product-tabs{
+	clear: both;
+}
+
+/* Change background color of buttons on hover */
+.nav-tab:hover {
+    background-color: #008000;
+    color: #fff;
+}
+
+/* Create an active/current tablink class */
+.nav-tab-active {
+    background-color: #008000;
+    color: #fff;
+}
